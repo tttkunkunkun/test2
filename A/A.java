@@ -13,8 +13,7 @@ public class A {
     public void methodsTree(){
         System.out.println("方法三提交");
     }
-    
-    public void methodsFour(){
-        System.out.println("方法四提交");
+    public void methodsFi(){
+        System.out.println("方法5提交");
     }
 }
