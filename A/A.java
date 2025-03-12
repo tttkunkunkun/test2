@@ -15,6 +15,6 @@ public class A {
     }
     
     public void methodsFour(){
-        System.out.println("方法四提交");
+        System.out.println("方法四提交 ");
     }
 }
