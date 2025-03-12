@@ -10,4 +10,7 @@ public class A {
     public void methodsSecond(){
         System.out.println("第三次提交");
     }
+    public void methodsTree(){
+        System.out.println("方法三提交");
+    }
 }
