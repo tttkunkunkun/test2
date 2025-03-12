@@ -4,18 +4,7 @@ public class A {
     public static void main(String[] args) {
         System.out.println("第一次提交");
     }
-    public void methodsFirst(){
-        System.out.println("第二次提交");
+    void testFirst(){
+        System.out.println(1);
     }
-    public void methodsSecond(){
-        System.out.println("第三次提交");
-    }
-    public void methodsTree(){
-        System.out.println("方法三提交");
-    }
-    
-    public void methodsFour(){
-        System.out.println("方法四提交");
-    }
-    
 }
